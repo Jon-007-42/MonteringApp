@@ -1,0 +1,13 @@
+.mounting-app-container {
+  padding: 20px;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wiring-list-wrapper {
+  margin-top: 20px;
+  width: 100%;
+  max-width: 800px; /* Juster efter behov */
+}
